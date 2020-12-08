@@ -1,0 +1,56 @@
+div{
+	height: 600px;
+	width: 800px;
+}
+div header{
+	text-align: left;
+	position: relative;
+	top: 5px;
+	height: 100px;
+	width: 770px;
+	background-color:orange;
+}
+div nav{
+	text-align: left;
+	position: relative;
+	top: 10px;
+	height: 30px;
+	width: 770px;
+	background-color:deeppink;
+}
+div aside{
+	text-align: left;
+	position: relative;
+	top: 15px;
+	right: 292px;
+	height: 340px;
+	width: 185px;
+	background-color:pink;
+}
+div article{
+	text-align: left;
+	position: relative;
+	top: -325px;
+	left: 97px;
+	height: 340px;
+	width: 575px;
+	background-color:deepskyblue;
+}
+div section{
+	text-align: left;
+	position: relative;
+	z-index: 1;
+	left: 97px;
+	bottom: 450px;
+	height: 117px;
+	width: 563px;
+	background-color:yellow;
+}
+div footer{
+	text-align: left;
+	position: relative;
+	top: -434px;
+	height: 100px;
+	width: 770px;
+	background-color:darkseagreen;
+}
